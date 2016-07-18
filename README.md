@@ -1,2 +1,1 @@
-# hello-world
-My very first github repository containing code and awesome garden pictures
+Secont attempt to commit something. There will soon be images folder and two pictures.
